@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Nov 2023 01:38:54 -0500</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>Finally!! A Successful Hugo Deployment</title>
       <link>https://example.org/posts/my-first-post/</link>
       <pubDate>Sat, 11 Nov 2023 01:38:54 -0500</pubDate>
       
       <guid>https://example.org/posts/my-first-post/</guid>
-      <description></description>
+      <description>Trying to get this site rendered successfully was not an easy feat. Several changes were made to get this up and running. This is my first successful commit to deploying a site through render by github repository initialization. it took me a week and a few days. This was not some lateral condition of success, in fact several attempts to get this fully rendered and deployed. As someone starting out in the field with no instructor, consistency directed with the harness of drive to understand, some things must be understood.</description>
     </item>
     
   </channel>
