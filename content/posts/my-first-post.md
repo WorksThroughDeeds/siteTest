@@ -1,7 +1,7 @@
 +++
 title = 'Finally!! A Successful Hugo Deployment'
 date = 2023-11-11T01:38:54-05:00
-draft = true
+draft = false
 +++
 
 
