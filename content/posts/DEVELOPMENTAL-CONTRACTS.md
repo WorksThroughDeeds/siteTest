@@ -12,4 +12,4 @@ And another issue was not being able to create the content needed for the theme.
 
 I am sure I can figure it out, but there is a roadblock. And I can't seem to get passed it right now. So there is going to be a total revamp of the site features and content. Stay tuned for what is to come.
 
-    SITE REVAMP IN PROGRESS(4%)
+    PROGRESSIVE CORROBORATION IN PROGRESS(4%)
