@@ -6,7 +6,16 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Nov 2023 01:38:54 -0500</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Dec 2023 02:33:31 -0500</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DEVELOPMENTAL INTEGRITY</title>
+      <link>https://example.org/posts/developmental-integrity/</link>
+      <pubDate>Mon, 04 Dec 2023 02:33:31 -0500</pubDate>
+      
+      <guid>https://example.org/posts/developmental-integrity/</guid>
+      <description>Currently, the projects for the site are on a hault. Since doing this, I have gained a tremendous amount of dicipline in figuring out this static site generator. There was pain, patience, and continous encouragement for the success of this site. Reasons for not continuing in advacements into this plan was due to the lack of experience with other themes and what entailed with them like CMS(Content Management System) or using StartBootstrap(themes to use for site content presentation).</description>
+    </item>
+    
     <item>
       <title>Finally!! A Successful Hugo Deployment</title>
       <link>https://example.org/posts/my-first-post/</link>
